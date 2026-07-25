@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.7.1](https://github.com/youki-dev/youki/compare/v0.7.0...v0.7.1) - 2026-07-25
+
+### 🧪 Test improvements and Misc Fixes
+- bump version to 0.7.0 and fix version-up regex in justfile by @nayuta723 in https://github.com/youki-dev/youki/pull/3665
+
 ## [v0.7.0](https://github.com/youki-dev/youki/compare/v0.6.0...v0.7.0) - 2026-07-23
 
 ### 💪 Improvements
